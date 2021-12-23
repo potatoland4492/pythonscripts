@@ -22,3 +22,19 @@ $ percent.py [-t, --text] <percent-encoded-text>
 [percent.py](files/percent.py)
 
 ---
+
+## badge.py
+
+`badge.py` is a program that creates URLs for badges at [shields.io](https://shields.io). For use in a UNIX terminal.
+
+### Usage
+
+```
+$ badge.py <label> <message> <color> [logo]
+```
+
+### Download
+
+[badge.py](files/badge.py)
+
+---
